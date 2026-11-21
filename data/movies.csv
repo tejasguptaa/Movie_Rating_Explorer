@@ -1,0 +1,64 @@
+movie_id,title,year,genre,director,runtime_min,user_rating,votes
+1,The Last Lantern,1998,Adventure,Aarav Sen,88,5.8,100
+2,A Map of Echoes,2005,Animation,Mira Kapoor,101,7.5,833
+3,Sunday at Platform Nine,2012,Comedy,Dev Nair,114,5.9,1566
+4,Paper Moon Harbor,2019,Drama,Leela Das,127,7.6,2299
+5,The Clockmaker of Cedar Lane,1998,Mystery,Kabir Rao,140,6.0,3032
+6,Beneath a Copper Sky,2005,Romance,Nina Shah,153,7.7,3765
+7,Letters from Winter Bay,2012,Sci-Fi,Ishaan Mehta,96,6.1,4498
+8,The Quiet Observatory,2019,Thriller,Tara Menon,109,7.8,5231
+9,A River Through Glass,1998,Adventure,Rohan Bose,122,6.2,5964
+10,The Hidden Orchard,2005,Animation,Anika Iyer,135,7.9,6697
+11,Midnight at Bluebird Cafe,2012,Comedy,Sameer Gill,148,6.3,7430
+12,The Garden of Small Stars,2019,Drama,Pia Roy,91,8.0,8163
+13,A Weekend in Monsoon City,1998,Mystery,Unknown,104,6.4,8896
+14,The Lighthouse Keeper,2005,Romance,Mira Kapoor,117,8.1,9629
+15,The Borrowed Bicycle,2012,Sci-Fi,Dev Nair,130,6.5,10362
+16,Clouds Over Marigold Hill,2019,Thriller,Leela Das,143,8.2,11095
+17,The Museum of Lost Sounds,1998,Adventure,Kabir Rao,156,6.6,11828
+18,One More Train to Jaipur,2005,Animation,Nina Shah,99,8.3,12561
+19,The Glass Kite,2012,Comedy,Ishaan Mehta,112,6.7,13294
+20,The Secret in Room Twelve,2019,Drama,Tara Menon,125,8.4,14027
+21,A Song for the Old Cinema,1998,Mystery,Rohan Bose,138,6.8,14760
+22,The Long Way to Sunrise,2005,Romance,Anika Iyer,151,8.5,493
+23,The Cartographer’s Daughter,2012,Sci-Fi,Sameer Gill,94,6.9,1226
+24,A Pocketful of Comets,2019,Unknown,Pia Roy,107,8.6,1959
+25,The House with Green Windows,1998,Adventure,Aarav Sen,120,7.0,2692
+26,Postcards from Elsewhere,2005,Animation,Mira Kapoor,133,8.7,3425
+27,The Baker and the Blue Umbrella,2012,Comedy,Dev Nair,146,7.1,4158
+28,Three Days on the Moon,2019,Drama,Leela Das,89,8.8,4891
+29,The Forgotten Footbridge,1998,Mystery,Kabir Rao,102,7.2,5624
+30,A Study in Silver Rain,2005,Romance,Nina Shah,115,8.9,6357
+31,The Puzzle of Pine Street,2012,Sci-Fi,Ishaan Mehta,128,7.3,7090
+32,The Mountain That Moved,2019,Thriller,Tara Menon,141,9.0,7823
+33,A Small Storm in April,1998,Adventure,Rohan Bose,154,7.4,8556
+34,The Library at the End of Town,2005,Animation,Anika Iyer,97,5.8,9289
+35,The Train to Amber Valley,2012,Comedy,Sameer Gill,110,7.5,10022
+36,The Boy Who Collected Shadows,2019,Drama,Pia Roy,123,5.9,10755
+37,The Last Mango Season,1998,Mystery,Aarav Sen,136,7.6,11488
+38,The Lighthouse on Paper Street,2005,Romance,Mira Kapoor,149,6.0,12221
+39,A Whale in the City Park,2012,Sci-Fi,Dev Nair,92,7.7,12954
+40,The Night Bus to Tomorrow,2019,Thriller,Leela Das,105,6.1,13687
+41,The Red Bicycle Mystery,1998,Adventure,Kabir Rao,118,7.8,14420
+42,A Thousand Tiny Windows,2005,Animation,Nina Shah,131,7.4,153
+43,The Inventor’s Garden,2012,Comedy,Ishaan Mehta,144,7.9,886
+44,The River Remembers,2019,Drama,Tara Menon,157,6.3,1619
+45,The Star Collector’s Map,1998,Mystery,Rohan Bose,100,8.0,2352
+46,The Houseboat on Lake Blue,2005,Romance,Anika Iyer,113,6.4,3085
+47,A Very Ordinary Superpower,2012,Sci-Fi,Sameer Gill,126,8.1,3818
+48,The Winter Carnival,2019,Thriller,Pia Roy,122,6.5,4551
+49,The Secret of Silver Lake,1998,Adventure,Aarav Sen,152,8.2,5284
+50,The Day the Clock Stopped,2005,Animation,Mira Kapoor,95,6.6,6017
+51,A Camera Full of Birds,2012,Comedy,Dev Nair,108,8.3,6750
+52,The Forgotten Recipe,2019,Drama,Leela Das,121,6.7,7483
+53,The Sky Between Us,1998,Mystery,Kabir Rao,134,8.4,8216
+54,The Clockwork Garden,2005,Romance,Nina Shah,147,6.8,8949
+55,A Letter from North Station,2012,Sci-Fi,Ishaan Mehta,90,8.5,9682
+56,The Smallest Planetarium,2019,Thriller,Tara Menon,103,6.9,10415
+57,The Last Bookshop on Elm Street,1998,Adventure,Rohan Bose,116,8.6,11148
+58,The Moonlight Detective,2005,Animation,Anika Iyer,129,7.0,11881
+59,The Summer of Paper Boats,2012,Comedy,Sameer Gill,142,8.7,12614
+60,The City Beneath the Orchard,2019,Drama,Pia Roy,155,7.1,13347
+61,om shanti om,2000,Romancd,opop,99090,9.0,0
+62,tanish,2007,funny,Vaibhav,1800,10.0,10
+63,taniha,6000,500,ffdfcgfc,6778,9.0,9
